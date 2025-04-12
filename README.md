@@ -31,3 +31,9 @@ This repository is a personal project built to explore and understand the workin
 
 ## 📁 Project Structure
 
+## 🎥 Project Preview
+
+Here’s a quick preview of the AI agent in action, using the X API via the MCP server:
+
+![Project Demo](./assets/demo.gif)
+
