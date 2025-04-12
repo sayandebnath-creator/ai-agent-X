@@ -1,38 +1,33 @@
-# X API Personal Project
+# X API AI Agent – Personal Learning Project
 
-This is a personal project created for the sole purpose of learning and gaining hands-on experience with the X API. It is not intended for commercial use and is developed strictly for educational and developmental growth.
+This repository is a personal project built to explore and understand the workings of the **X API** by integrating it with an **MCP server** to power a small AI agent. The aim is to gain practical knowledge through a single-use implementation while maintaining platform security and responsible development practices.
 
-## 📌 Purpose
+## 🎯 Project Purpose
 
-- To understand the core functionalities and integration process of the X API.
-- To enhance my development skills through real-world API implementation.
-- To explore best practices in secure and responsible API usage.
-- To build a foundational project that demonstrates my growth as a developer.
+- To explore and integrate the **X API** using an **MCP server**.
+- To create a lightweight AI agent that interacts with tools and processes data intelligently.
+- To improve my backend integration skills and AI workflow understanding.
+- To ensure secure and ethical usage of the X platform in all interactions.
 
-## 🚀 Features
+## ⚙️ How It Works
 
-- API authentication and secure access.
-- Sample data retrieval and handling.
-- Clean UI to visualize responses (if applicable).
-- Logging and basic error handling.
+- The MCP server acts as the backend host, handling API requests and AI logic.
+- The X API is called via authenticated endpoints to retrieve and send data.
+- A connected tool (e.g., a chatbot interface or custom CLI) interacts with the AI agent.
+- The AI agent makes decisions or responses based on received data and tool input.
 
-## 🔐 Security & Compliance
+## 🧠 Key Features
 
-This project adheres to the security policies and guidelines provided by the X platform. All API interactions are handled responsibly with proper respect to rate limits, authentication methods, and data privacy requirements.
+- X API integration with secured token-based authentication.
+- MCP server handling asynchronous data flows.
+- A minimal AI agent that reads input, processes logic, and performs actions.
+- Tool interface to simulate user interactions or automate tasks.
 
-## ⚠️ Disclaimer
+## 🔐 Security
 
-This is a **single-use, non-commercial, and educational** project. It is intended solely for personal development and learning purposes. All trademarks and API services belong to their respective owners.
+- API credentials are stored in environment variables using `.env`.
+- Requests are rate-limited and logged for traceability.
+- The project follows best practices to ensure platform integrity and data privacy.
 
-## 🛠️ Technologies Used
+## 📁 Project Structure
 
-- JavaScript / TypeScript or Python (based on your stack)
-- Fetch / Axios for API calls
-- HTML/CSS (for front-end, if any)
-- [X API Documentation](https://developer.x.com/) (refer to the actual URL)
-
-## 📂 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/x-api-personal-project.git
