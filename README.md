@@ -1,0 +1,2 @@
+#MCP
+Resources -> Tool -> Prompt
