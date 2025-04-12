@@ -33,5 +33,5 @@ This repository is a personal project built to explore and understand the workin
 
 Here’s a quick preview of the AI agent in action, using the X API via the MCP server:
 
-![Project Demo](./assets/demo.gif)
+![Project Demo](![ai_agent](https://github.com/user-attachments/assets/36f63c91-67c4-4fbe-b44f-4ab23ea5a110))
 
