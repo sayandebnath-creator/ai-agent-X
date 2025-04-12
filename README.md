@@ -29,8 +29,6 @@ This repository is a personal project built to explore and understand the workin
 - Requests are rate-limited and logged for traceability.
 - The project follows best practices to ensure platform integrity and data privacy.
 
-## 📁 Project Structure
-
 ## 🎥 Project Preview
 
 Here’s a quick preview of the AI agent in action, using the X API via the MCP server:
